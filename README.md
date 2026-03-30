@@ -11,6 +11,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/koushikar96-ctrl/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/koushikar96-ctrl/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/koushikar96-ctrl/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/koushikar96-ctrl/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/koushikar96-ctrl/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/koushikar96-ctrl/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/koushikar96-ctrl/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Divide and Conquer
