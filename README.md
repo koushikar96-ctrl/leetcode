@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/koushikar96-ctrl/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/koushikar96-ctrl/leetcode/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/koushikar96-ctrl/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/koushikar96-ctrl/leetcode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/koushikar96-ctrl/leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
