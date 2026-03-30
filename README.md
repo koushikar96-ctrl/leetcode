@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/koushikar96-ctrl/leetcode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/koushikar96-ctrl/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/koushikar96-ctrl/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/koushikar96-ctrl/leetcode/tree/master/0118-pascals-triangle) |
@@ -69,5 +70,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/koushikar96-ctrl/leetcode/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/koushikar96-ctrl/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/koushikar96-ctrl/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
