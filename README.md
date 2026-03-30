@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/koushikar96-ctrl/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/koushikar96-ctrl/leetcode/tree/master/0070-climbing-stairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/koushikar96-ctrl/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Dynamic Programming
@@ -19,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/koushikar96-ctrl/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/koushikar96-ctrl/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/koushikar96-ctrl/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koushikar96-ctrl/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
