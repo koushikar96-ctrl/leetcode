@@ -28,6 +28,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koushikar96-ctrl/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/koushikar96-ctrl/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/koushikar96-ctrl/leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/koushikar96-ctrl/leetcode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/koushikar96-ctrl/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/koushikar96-ctrl/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Divide and Conquer
@@ -84,4 +85,20 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/koushikar96-ctrl/leetcode/tree/master/0205-isomorphic-strings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/koushikar96-ctrl/leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/koushikar96-ctrl/leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/koushikar96-ctrl/leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/koushikar96-ctrl/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
