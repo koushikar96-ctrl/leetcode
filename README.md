@@ -27,6 +27,7 @@
 | [0118-pascals-triangle](https://github.com/koushikar96-ctrl/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koushikar96-ctrl/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/koushikar96-ctrl/leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/koushikar96-ctrl/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/koushikar96-ctrl/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/koushikar96-ctrl/leetcode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/koushikar96-ctrl/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -77,6 +78,7 @@
 | [0011-container-with-most-water](https://github.com/koushikar96-ctrl/leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/koushikar96-ctrl/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/koushikar96-ctrl/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/koushikar96-ctrl/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/koushikar96-ctrl/leetcode/tree/master/0200-number-of-islands) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/koushikar96-ctrl/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
