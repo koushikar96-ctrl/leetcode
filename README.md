@@ -109,4 +109,12 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/koushikar96-ctrl/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/koushikar96-ctrl/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/koushikar96-ctrl/leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/koushikar96-ctrl/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
