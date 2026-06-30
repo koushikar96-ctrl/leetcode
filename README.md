@@ -32,6 +32,7 @@
 | [0169-majority-element](https://github.com/koushikar96-ctrl/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/koushikar96-ctrl/leetcode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/koushikar96-ctrl/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/koushikar96-ctrl/leetcode/tree/master/0739-daily-temperatures) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/koushikar96-ctrl/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Divide and Conquer
 |  |
@@ -113,8 +114,13 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/koushikar96-ctrl/leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/koushikar96-ctrl/leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/koushikar96-ctrl/leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/koushikar96-ctrl/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
