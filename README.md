@@ -88,6 +88,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/koushikar96-ctrl/leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/koushikar96-ctrl/leetcode/tree/master/0205-isomorphic-strings) |
 ## Depth-First Search
 |  |
