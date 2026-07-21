@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/koushikar96-ctrl/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/koushikar96-ctrl/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/koushikar96-ctrl/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/koushikar96-ctrl/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -49,6 +50,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/koushikar96-ctrl/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/koushikar96-ctrl/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/koushikar96-ctrl/leetcode/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/koushikar96-ctrl/leetcode/tree/master/0347-top-k-frequent-elements) |
